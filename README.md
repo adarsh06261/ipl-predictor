@@ -71,7 +71,7 @@ It combines machine learning and interactive visuals to provide quick, insightfu
 
 <h2>🙌 Author</h2>
 <p><strong>Adarsh Rai</strong><br>
-🔗 <a href="https://www.linkedin.com/in/siddharth-jain-8b56a2321/" target="_blank">LinkedIn Profile</a></p>
+🔗 <a href="https://www.linkedin.com/in/adarshraiiiitbh/" target="_blank">LinkedIn Profile</a></p>
 
 <hr>
 
